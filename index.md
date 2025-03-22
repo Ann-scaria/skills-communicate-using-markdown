@@ -9,10 +9,15 @@
 ##### This is an H5 Header
 
 ###### This is an H6 Header
-
-![Image](https://![image](https://github.com/user-attachments/assets/8f25c448-0dcc-407c-b424-bec9acaf31d6)
-.com) 
+![image](https://github.com/user-attachments/assets/8f25c448-0dcc-407c-b424-bec9acaf31d6) 
 
 ```python
 def hello():
     print("Hello, world!")
+## My Task List 🔗
+
+- [x] Complete Markdown headers section
+- [x] Add an image to the file
+- [ ] Create a code block
+- [ ] Turn on GitHub Pages
+- [ ] Introduce myself
